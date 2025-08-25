@@ -1,0 +1,44 @@
+body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+            margin: 20px;
+        }
+
+        p {
+            background-color: #fff;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        b {
+            font-weight: bold;
+            color: #d9534f; /* Color rojo para el enemigo */
+        }
+
+        .prueba {
+            color: #5bc0de; /* Color azul claro para la clase 'prueba' */
+            font-style: italic;
+        }
+
+        #prueba2 {
+            color: #5cb85c; /* Color verde para el ID 'prueba2' */
+            font-weight: bold;
+        }
+
+        .h3 {
+            color: #f0ad4e; /* Color amarillo para la clase 'h3' */
+            font-size: 1.2em;
+        }
+    </style>
